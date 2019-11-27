@@ -20,8 +20,3 @@ O desafio prevê os seguintes objetivos:
 ● Feature Engineering, se o candidato achar relevante
 ● Criação e avaliação de um modelo de previsão
 ● Deployment do modelo através de uma REST API
-O candidato deverá, preferencialmente, utilizar a linguagem de programação Python.
-Caso não seja possível realizar todos os objetivos, o candidato deverá ser esclarecer as
-dificuldades que encontrou.
-No seguimento do exercício, poderá ser agendada uma reunião para debate e esclarecimento
-com a equipa responsável pelo recrutamento.
